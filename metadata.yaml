@@ -1,0 +1,41 @@
+_repo: Time-Crime_18151
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Cracking a tough case is difficult enough when time is running in just
+  one direction. In H. Beam Piper's Time Crime, detectives have to pursue criminals
+  into the past, future, and other possible presents. SF lovers, settle in for a pulse-pounding
+  -- and thought-provoking -- adventure.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Time Crime
+url: http://www.gutenberg.org/ebooks/18151
